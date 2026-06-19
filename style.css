@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size: 36px;
+    font-weight: 600px;
+    text-align: center;
+}
+h4{
+    font-size: 24px;
+    font-weight: 600px;
+    text-align: center;
+}
+h5{
+    font-size: 20px;
+    font-weight: 16px;
+    align-items: normal;
+}
+p{
+     font-size: 15px;
+}
+ol{
+    list-style: decimal inside ;
+       
+}
+hr{
+    border: none;
+    height: 1px;
+    background-color:#ccc;
+    width: 30%;
+    margin: 20px auto;
+}
+ul{
+    list-style: circle inside;
+}
+
